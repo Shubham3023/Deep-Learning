@@ -12,7 +12,7 @@
 <a href="https://github.com/Shubham3023/Deep-Learning/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Shubham3023/Deep-Learning?color=2b9348" alt="License Badge"/></a>
 
   
-<img alt="Machine Learning Repo" src="https://www.stonebridge.uk.com/blog/wp-content/uploads/2019/10/neuron-animation-blog.gif"> </img>
+<img alt="Machine Learning Repo" src="https://camo.githubusercontent.com/7742c40e342c7a1d7b57925ea40fb8c913bd47944ae3dbe1394ca19529ee1536/68747470733a2f2f7777772e73746f6e656272696467652e756b2e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f6e6575726f6e2d616e696d6174696f6e2d626c6f672e676966"> </img>
 </div>
   
 ---
